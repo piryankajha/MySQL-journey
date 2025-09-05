@@ -1,5 +1,5 @@
 # MySQL-journey 👩🏻‍💻
 MySQL learning journey with notes and queries..
-<p align="center">
-  <img src="" width="120" alt="SQL Logo"/>
-</p>
+
+<img src="assets/What_is_SQL_Database.webp" width="450" alt="SQL Logo"/>
+
