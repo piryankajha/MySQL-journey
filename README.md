@@ -3,5 +3,5 @@
 
 ---
 
-<img src="assets/What_is_SQL_Database.webp" width="350" alt="SQL Logo"/>
+<img src="assets/sql_banner.jpg" width="550" alt="SQL Logo"/>
 
